@@ -99,7 +99,7 @@ Public Class EditForm
         Try
             Using connection As New SqlConnection(ConfigurationManager.ConnectionStrings("CONNECTION").ToString())
                 Dim command As New SqlCommand("UPDATE Users SET firstName = @FirstName, lastName = @LastName, email = @Email, PESEL = @PESEL, number = @Number, adress = @Adress WHERE PESEL = @Pesel", connection)
-                command.Parameters.AddWithValue("@PESEL", _pesel)
+                command.Parameters.AddWithValue("@PESEL", PeselTextBox.Text)
                 command.Parameters.AddWithValue("@FirstName", FirstNameTextBox.Text)
                 command.Parameters.AddWithValue("@LastName", LastNameTextBox.Text)
                 command.Parameters.AddWithValue("@Email", EmailTextBox.Text)

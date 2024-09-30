@@ -69,7 +69,7 @@ Public Class MainForm
             End If
         Next
 
-        Dim items As New List(Of ListViewItem)()
+
 
         For Each row As DataRow In filteredData.Rows
             Dim item As New ListViewItem()
@@ -77,9 +77,10 @@ Public Class MainForm
             item.SubItems.Add(row("lastName").ToString())
             item.Tag = row("PESEL").ToString()
 
-            items.Add(item)
+            ListView1.Items.Add(item)
+
         Next
-        ListView1.Items.AddRange(items.ToArray())
+        'ListView1.Items.AddRange(items.ToArray())
 
     End Sub
 
@@ -111,7 +112,7 @@ Public Class MainForm
 
                 If Not String.IsNullOrWhiteSpace(pesel) Then
 
-                    Dim item As New ListViewItem(pesel)
+                    Dim item As New ListViewItem()
                     item.SubItems.Add(firstName)
                     item.SubItems.Add(lastName)
                     item.Tag = pesel
@@ -186,6 +187,17 @@ Public Class MainForm
         End Using
 
     End Sub
+
+    Private Sub DeleteFromCache(pesel As String)
+        If CacheDataTable IsNot Nothing Then
+            Dim rowsToDelete As DataRow() = CacheDataTable.Select("PESEL = '" & pesel & "'")
+
+            For Each row As DataRow In rowsToDelete
+                CacheDataTable.Rows.Remove(row)
+            Next
+        End If
+    End Sub
+
     Private Sub RemoveButtonClicked(sender As Object, e As EventArgs) Handles MainRemoveButton.Click
         Dim result As DialogResult = MessageBox.Show("Czy na pewno chcesz usunąć zaznaczonych użytkowników?", "Potwierdzenie usunięcia", MessageBoxButtons.YesNo, MessageBoxIcon.Warning)
 
@@ -197,6 +209,8 @@ Public Class MainForm
                     If item.Checked Then
                         Dim pesel As String = item.Tag
                         DeleteUserFromDatabase(pesel)
+                        DeleteFromCache(pesel)
+
 
                         ListView1.Items.Remove(item)
                         anyDeleted = True

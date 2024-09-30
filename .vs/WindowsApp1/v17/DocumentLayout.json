@@ -3,68 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\addform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\editform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\searchform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\validationunits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\validationunits.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\registerform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\windowsapp1\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|c:\\users\\krystianwasil\\source\\repos\\windowsapp1\\windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D241E710-96E1-4FAD-A951-5AF2FEC2D585}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\showform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,196 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShowForm.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\ShowForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb",
-              "RelativeToolTip": "WindowsApp1\\ShowForm.vb",
-              "ViewState": "AgIAABAAAABAZmZmZmYtwCYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:40.449Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddForm.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\AddForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\AddForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\AddForm.vb",
-              "RelativeToolTip": "WindowsApp1\\AddForm.vb",
-              "ViewState": "AgIAAGQAAAAAn5mZmRkawAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T01:35:11.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\AddForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\AddForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\AddForm.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\AddForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:45:34.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\MainForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\MainForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:40:58.84Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\Class1.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\Class1.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\Class1.vb",
-              "RelativeToolTip": "WindowsApp1\\Class1.vb",
-              "ViewState": "AgIAAAEAAABAZmZmZqYowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:53.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ValidationUnits.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ValidationUnits.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\ValidationUnits.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ValidationUnits.vb",
-              "RelativeToolTip": "WindowsApp1\\ValidationUnits.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:45.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShowForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\ShowForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\ShowForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:36.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SearchForm.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\SearchForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb",
-              "RelativeToolTip": "WindowsApp1\\SearchForm.vb",
-              "ViewState": "AgIAAAAAAAAANDMzMzMLwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:32.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SearchForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\SearchForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\SearchForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:30.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterForm.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\RegisterForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb",
-              "RelativeToolTip": "WindowsApp1\\RegisterForm.vb",
-              "ViewState": "AgIAADQAAAAAnpmZmZkKwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:22.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\RegisterForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\RegisterForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:19.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\MainForm.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
-              "RelativeToolTip": "WindowsApp1\\MainForm.vb",
-              "ViewState": "AgIAAOQAAAAAZmZmZmb0v/YAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:12:12.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm1.vb",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\LoginForm1.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\LoginForm1.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\LoginForm1.vb",
-              "RelativeToolTip": "WindowsApp1\\LoginForm1.vb",
-              "ViewState": "AgIAAAkAAACAMzMzMzMDwBsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:11:36.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginForm1.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\LoginForm1.vb",
-              "RelativeDocumentMoniker": "WindowsApp1\\LoginForm1.vb",
-              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\LoginForm1.vb [Design]",
-              "RelativeToolTip": "WindowsApp1\\LoginForm1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:11:34.439Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "EditForm.vb",
               "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\EditForm.vb",
               "RelativeDocumentMoniker": "WindowsApp1\\EditForm.vb",
               "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\EditForm.vb",
               "RelativeToolTip": "WindowsApp1\\EditForm.vb",
-              "ViewState": "AgIAAF0AAAAAdGZmZmYFwGcAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAIAWwGIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:11:25.78Z"
+              "WhenOpened": "2024-09-30T14:04:05.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "EditForm.vb [Design]",
               "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\EditForm.vb",
               "RelativeDocumentMoniker": "WindowsApp1\\EditForm.vb",
               "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\EditForm.vb [Design]",
               "RelativeToolTip": "WindowsApp1\\EditForm.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-09-28T00:11:23.343Z"
+              "WhenOpened": "2024-09-30T14:04:27.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\MainForm.vb",
+              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb [Design]",
+              "RelativeToolTip": "WindowsApp1\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T13:31:58.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\MainForm.vb",
+              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\MainForm.vb",
+              "RelativeToolTip": "WindowsApp1\\MainForm.vb",
+              "ViewState": "AgIAAMcAAADAzczMzIwpwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T13:31:27.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.vb",
+              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\RegisterForm.vb",
+              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\RegisterForm.vb",
+              "RelativeToolTip": "WindowsApp1\\RegisterForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T13:31:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchForm.vb",
+              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\SearchForm.vb",
+              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\SearchForm.vb",
+              "RelativeToolTip": "WindowsApp1\\SearchForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T13:31:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowForm.vb",
+              "DocumentMoniker": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\ShowForm.vb",
+              "ToolTip": "C:\\Users\\krystianwasil\\source\\repos\\WindowsApp1\\WindowsApp1\\ShowForm.vb",
+              "RelativeToolTip": "WindowsApp1\\ShowForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-30T13:31:01.314Z",
+              "EditorCaption": ""
             }
           ]
         }
