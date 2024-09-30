@@ -62,9 +62,9 @@ Public Class MainForm
         Dim filteredData As DataTable = CacheDataTable.Clone()
 
         For Each row As DataRow In CacheDataTable.Rows
-            If (String.IsNullOrEmpty(firstName) Or row("firstName").ToString().Contains(firstName)) AndAlso
-           (String.IsNullOrEmpty(lastName) Or row("lastName").ToString().Contains(lastName)) AndAlso
-           (String.IsNullOrEmpty(pesel) Or row("PESEL").ToString().Contains(pesel)) Then
+            If (String.IsNullOrEmpty(firstName) Or row("firstName").ToString().ToLower().Contains(firstName.ToLower())) AndAlso
+           (String.IsNullOrEmpty(lastName) Or row("lastName").ToString().ToLower().Contains(lastName.ToLower())) AndAlso
+           (String.IsNullOrEmpty(pesel) Or row("PESEL").ToString().ToLower().Contains(pesel.ToLower())) Then
                 filteredData.ImportRow(row)
             End If
         Next
@@ -158,10 +158,29 @@ Public Class MainForm
                 If editForm.ShowDialog() = DialogResult.OK Then
                     selectedItem.SubItems(1).Text = editForm.FirstNameTextBox.Text
                     selectedItem.SubItems(2).Text = editForm.LastNameTextBox.Text
+                    selectedItem.Tag = editForm.Pesel
+
+                    Dim rowToUpdate As DataRow() = CacheDataTable.Select("PESEL = '" & pesel & "'")
+                    If rowToUpdate.Length > 0 Then
+                        rowToUpdate(0)("firstName") = editForm.FirstNameTextBox.Text
+                        rowToUpdate(0)("lastName") = editForm.LastNameTextBox.Text
+                        rowToUpdate(0)("PESEL") = editForm.Pesel
+                    End If
                 End If
             End Using
         End If
     End Sub
+
+    Private Sub MainForm_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        Dim result As DialogResult = MessageBox.Show("Czy na pewno chcesz zamknąć aplikację?", "Zamknij", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+
+        If result = DialogResult.Yes Then
+            Application.Exit()
+        Else
+            e.Cancel = True
+        End If
+    End Sub
+
 
     Private Sub selectAllToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem1.Click
 

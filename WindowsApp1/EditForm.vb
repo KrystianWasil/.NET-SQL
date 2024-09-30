@@ -98,8 +98,9 @@ Public Class EditForm
 
         Try
             Using connection As New SqlConnection(ConfigurationManager.ConnectionStrings("CONNECTION").ToString())
-                Dim command As New SqlCommand("UPDATE Users SET firstName = @FirstName, lastName = @LastName, email = @Email, PESEL = @PESEL, number = @Number, adress = @Adress WHERE PESEL = @Pesel", connection)
-                command.Parameters.AddWithValue("@PESEL", PeselTextBox.Text)
+                Dim command As New SqlCommand("UPDATE Users SET firstName = @FirstName, lastName = @LastName, email = @Email, PESEL = @NewPesel, number = @Number, adress = @Adress WHERE PESEL = @OldPesel", connection)
+                command.Parameters.AddWithValue("@OldPesel", _pesel)
+                command.Parameters.AddWithValue("@NewPesel", PeselTextBox.Text)
                 command.Parameters.AddWithValue("@FirstName", FirstNameTextBox.Text)
                 command.Parameters.AddWithValue("@LastName", LastNameTextBox.Text)
                 command.Parameters.AddWithValue("@Email", EmailTextBox.Text)
@@ -120,6 +121,7 @@ Public Class EditForm
                 MessageBox.Show("Wystąpił błąd: " & ex.Message, "Błąd", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End If
         End Try
+        _pesel = PeselTextBox.Text
     End Sub
 
     Private Sub buttonCancel_Click(sender As Object, e As EventArgs) Handles ButtonCancel.Click

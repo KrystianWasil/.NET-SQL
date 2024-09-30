@@ -160,7 +160,7 @@ Partial Class AddForm
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(87, 45)
         Me.Label2.TabIndex = 10
-        Me.Label2.Text = "Imie:"
+        Me.Label2.Text = "Imię:"
         '
         'Label3
         '

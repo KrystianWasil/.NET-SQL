@@ -1,4 +1,4 @@
-Imports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
 Imports System.Configuration
 
 Public Class LoginForm1
@@ -10,17 +10,17 @@ Public Class LoginForm1
         ErrorProvider1.Clear()
 
         If String.IsNullOrWhiteSpace(login) Then
-            ErrorProvider1.SetError(UsernameTextBox, "Login cannot be empty")
+            ErrorProvider1.SetError(UsernameTextBox, "Login nie moze byc pusty")
             Return
         End If
 
         If String.IsNullOrWhiteSpace(password) Then
-            ErrorProvider1.SetError(PasswordTextBox, "Password cannot be empty")
+            ErrorProvider1.SetError(PasswordTextBox, "Haslo nie moze byc puste")
             Return
         End If
 
         If Not CheckLogin(login, password) Then
-            ErrorProvider1.SetError(PasswordTextBox, "Incorrect password or login")
+            ErrorProvider1.SetError(PasswordTextBox, "Niepoprawne haslo lub login")
             Return
         End If
 
@@ -29,6 +29,11 @@ Public Class LoginForm1
         mainForm.Show()
         Me.Hide()
     End Sub
+
+
+
+
+
 
     Private Sub RegisterButtonClicked(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RegisterButton.Click
         Dim regForm As New RegisterForm
