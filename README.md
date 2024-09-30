@@ -16,7 +16,7 @@ git clone <adres_url_pobrany_z_tego_repozitorium>
 ### 2. Utworzenie bazy danych
 Masz dwie opcje, aby utworzyć bazę danych:
 
-#Opcja 1: Użyj Visual Studio
+### Opcja 1: Użyj Visual Studio
 Przejdź do folderu, gdzie sklonował się projekt.
 Otwórz folder w Visual Studio.
 Znajdź plik o nazwie script2.sql i kliknij na niego.
@@ -25,7 +25,7 @@ FILENAME = "N'adres_gdzie_chcesz_zapisac_pliki\test1.mdf"   !!!Wazne N' ..... !!
 Wykonaj skrypt, aby utworzyć bazę danych.
 ![image](https://github.com/user-attachments/assets/315e8a3b-11be-4c09-b955-be742228ab67)
 ![image](https://github.com/user-attachments/assets/5faeb263-04f0-4ca4-a357-48568dd1ec33)
-#Opcja 2: Użyj SQL Server Management Studio
+#### Opcja 2: Użyj SQL Server Management Studio
 Otwórz SQL Server Management Studio.
 Przejdź do folderu Databases.
 Wybierz plik script2.sql i wykonaj ten skrypt w bazie danych.
